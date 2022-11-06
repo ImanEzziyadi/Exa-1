@@ -9,13 +9,13 @@ import '../styles/footer.css'
 const Footer = () => {
   return (
    
-     <div>
+     <div className='p-4'>
         <h3 className='mt-4 container ' >LETS CONNECT:</h3>
        <div className='Linked'>
          <img src={boy}  alt='boy' className='p-2' />
-       <div className='Linked'>
-        <h3><a href="https://www.linkedin.com/mwlite/in/khaled-hamzeh-651b77241" >Linked</a></h3>
-        </div>
+         
+         <h3><a href="https://www.linkedin.com/mwlite/in/khaled-hamzeh-651b77241" className='linked-color' >Linked</a></h3>
+        
       </div>
      <div className='liner'>
         

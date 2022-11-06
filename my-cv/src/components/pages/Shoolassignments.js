@@ -157,7 +157,7 @@ const Shoolassignments = () => {
             <span className="tag tag-teal">Design project</span>
             <h5>created with HTML & CSS</h5>
           </div>
-          <button className="btn-contact"><a href="https://github.com/ImanEzziyadi/Jood---App-Landing-Page/tree/master"></a>Download  from Github</button> 
+          <button className="btn-contact"><a href="https://github.com/ImanEzziyadi/Jood---App-Landing-Page/tree/master" target="_blank">Download  from Github</a></button> 
         </div>
         {/* cade-2 */}
         <div className="card">
@@ -165,11 +165,10 @@ const Shoolassignments = () => {
             <img src={pro_javaScript} alt="pro_javaScript"/>
           </div>
           <div className="card-body">
-            <span className="tag tag-teal">Small e-commerce project </span>
-            <h5> Bootstrap</h5>
+            <span className="tag tag-teal"> e-commerce project </span>
              <h5>React, Vue & Angular</h5> 
            </div>
-            <button className="btn-contact"><a href="https://github.com/ImanEzziyadi/Jood---App-Landing-Page/tree/master"></a>Download  from Github</button> 
+            <button className="btn-contact"><a href= "https://github.com/ImanEzziyadi/eCommerce-med-React/tree/master/Iman-Market" target="_blank" >Download  from Github</a></button> 
         </div>
         {/* card-3 */}
         <div className="card">
@@ -181,7 +180,8 @@ const Shoolassignments = () => {
             <h5> Javascript</h5>
              
           </div>
-          <button className="btn-contact"><a href="https://github.com/ImanEzziyadi/Jood---App-Landing-Page/tree/master"></a>Download  from Github</button> 
+          <button className="btn-contact"><a href="https://github.com/ImanEzziyadi/uppgifter-domain.git" target="_blank">Download  from Github</a></button> 
+          
        </div>
        
        {/* LIA */}
@@ -193,7 +193,7 @@ const Shoolassignments = () => {
             <span className="tag tag-teal">Swedcon18 hemsida</span>
             <h5> React & Hooks</h5>
           </div>
-          <button className="btn-contact"><a href="https://github.com/ImanEzziyadi/Jood---App-Landing-Page/tree/master"></a>Download  from Github</button> 
+          <button className="btn-contact"><a href="https://github.com/ImanEzziyadi/Examansarbete/tree/master/Sweden18" target="_blank">Download  from Github</a></button> 
         </div>
         </div>
         {/*End  */}

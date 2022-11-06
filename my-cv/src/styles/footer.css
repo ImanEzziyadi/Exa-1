@@ -16,6 +16,13 @@
     align-items: center;
     margin-top: 4rem;
   }
+  .linked-color{
+    color:  rgb(28, 200, 212);
+  }
+  .linked-color:hover{
+    color: #FFC100;
+     text-decoration-line: #FFC100;
+  }
   .liner{
     border: 1px solid ;
     padding: 1rem;

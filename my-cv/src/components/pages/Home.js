@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from '../Navbar';
  import Connectme from './Connectme'
 import { Link } from 'react-router-dom';
-import  x  from '../../image/aboutP.jpg'
+import  x  from '../../image/user_pic.jpg'
 import Mybackground from './Mybackground.js'
 import Shoolassignments from './Shoolassignments.js'
 import Footer from '../Footer.js'
@@ -10,7 +10,7 @@ import '../../styles/home.css'
 
 const Home = () => {
   return (
-    <div>
+    <div className=' container-home'>
       <Navbar />
       {/* <h1>Home</h1>
       <p>Your Smartest IT Solution</p> */}
@@ -32,7 +32,7 @@ const Home = () => {
                 </div>
           
                 <div className='p-4'>
-                    <img src={x} alt="Group"  className='student-img'/> 
+                    <img src={x} alt="Group" /> 
                     
                 </div>
             
