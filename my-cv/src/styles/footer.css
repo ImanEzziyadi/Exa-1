@@ -1,0 +1,30 @@
+.container-copy{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem; 
+    font-weight: 400;
+    font-size: 14px;
+    color: #f5f1f1;
+  }
+
+.Linked {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
+  }
+  .liner{
+    border: 1px solid ;
+    padding: 1rem;
+    margin-top: 3rem;
+    
+  }
+  .tittle{
+  font-size: 40px;
+  font-weight: 500;
+  padding: 3rem
+}
+  
